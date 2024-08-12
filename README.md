@@ -1,10 +1,9 @@
-# user_details
+# Filter Users
 
-A new Flutter project.
+About
+It is an application where you can filter user names and access their details using the Isar database.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
